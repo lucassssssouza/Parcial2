@@ -12,5 +12,5 @@ elif op == "*":
 elif op == "/":
     print("Resultado:", num1 / num2)
 else:
-    print("Resultado inválida")
+    print("Resultado inválido")
       #Se o resultado der algo como uma operação errada ou digitação errada (algo que não esteja no codigo) irá aparecer "Resultado Invalido"
